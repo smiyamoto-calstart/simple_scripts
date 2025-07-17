@@ -5,6 +5,8 @@
 This repo is designed to contain some simple CLI-based quality-of-life scripts
 that can be run on your local machine.
 
+Unless otherwise noted, instructions (setup, how-to's, et cetera) will live on the scripts themselves
+because scripts may have different use cases or purposes.
 
 Example:
 - Screenshot cleanup
