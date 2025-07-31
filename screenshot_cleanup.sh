@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ################################# Rudimentary Instructions ##########################################
-### Pre-requsite: This script may likely need to live in the directory in which your screenshots live.
+### Pre-requisite: This script may likely need to live in the directory in which your screenshots live.
 
 ### To run on the CLI: 
 ### 1) Try replacing <yourname> after with your name. That can be found with `pwd`.
