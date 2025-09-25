@@ -1,4 +1,15 @@
 #!/bin/bash
+
+################################# Instructions / Environment ##########################################
+### Pre-requisites / Environment: <Pre-requisites / Environment>
+
+### To run on the CLI: 
+### 1) <Step 1>
+
+### To test: <Instructions>
+### Developer notes: <Developer notes>
+#####################################################################################################
+
 DOWNLOADS="$HOME/Downloads"
 SORTED="$DOWNLOADS"
  
